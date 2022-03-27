@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pidgu91
 - 👀 I’m interested in just developing whatever comes to mind
 - 🌱 I’m currently preparing for Cisco DevNet Associate
-- 💞️ I’m looking to collaborate on I'm always looking to learn new things
+- 💞️ I'm always looking to learn new things
 - 📫 How to reach me zjanssen23@gmail.com
 
 <!---
